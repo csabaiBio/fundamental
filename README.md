@@ -1,11 +1,21 @@
 # Fundamental questions in physics seminar
 
+### _Task for March 4th_
+- look through the original seminar book and the other resources below
+- check out related reviews, podcasts, etc.
+- you may suggest other similar resources
+- __Put together few slides:__
+  - your reflection on the list of resources
+  - pick something that you would be most interested, volunteer for seminar topic - also have idea on when to present
+   
 
-### Sources
+
+### Original seminar topic
 
 - [X] Lee Smolin - Time reborn (2013) [wikipedia](https://en.wikipedia.org/wiki/Time_Reborn)
 
-Original seminar topic
+
+### Other resources
 
 - Carlo Rovelli – The Order of Time (2018) [wikipedia](https://en.wikipedia.org/wiki/The_Order_of_Time_(book))
 
