@@ -52,4 +52,6 @@ Godfather of quantum computing on quantum mechanics and its implications for und
   - [X] Stephen Wolfram - A Class of Models with the Potential to Represent Fundamental Physics (2020) https://www.wolframphysics.org/technical-introduction/
   - [X] Stephen Wolfram - A new kind of science (2002) [wikipedia](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)
      
+-  An interesting read on how complexity is created: https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/  and if physics can explain it https://www.pnas.org/doi/10.1073/pnas.2310223120 
+     
 - 
