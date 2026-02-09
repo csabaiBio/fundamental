@@ -4,6 +4,8 @@ The "A fizika fundamentális kérdései szeminárium" / "Fundamental questions i
 
 It can be fulfilled in English or Hungarian. The reading material will be in English. The seminar will be held as a (depending on the number of students) one or two day workshop around second half of April. In the previous years we discussed Lee Smolin's "Time reborn" book, but as several years has passed, so there is a longer suggested list below. Further suggestions are welcome. 
 
+Th efirst part of the semester will be self-guided preparation. We will have a first in person kick-off seminar and then the presentations (late March, April, May, exact schedule will determined later).
+
 ### To get a mark, you will need to:
 - select a topic and background literature -- related to foundations of physics, or sciences in general -- and present briefly your plans
 - read the book/articles and present a summary and your reflections in a ~10-15 minute presentation. Also take part in discussion with questions comments to other's presentation.
@@ -18,6 +20,7 @@ In the coming weeks we will have a kick-off meeting where we finalize the readin
 - __Put together few slides:__
   - your reflection on the list of resources
   - pick something that you would be most interested, volunteer for seminar topic - also have idea on when to present
+- We will discuss the schedule at this seminar
    
 
 
