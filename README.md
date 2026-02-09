@@ -11,7 +11,7 @@ It can be fulfilled in English or Hungarian. The reading material will be in Eng
 
 In the coming weeks we will have a kick-off meeting where we finalize the reading material and assign the chapters.
 
-### _Task for the kick-off meeting_
+### _Task for the kick-off meeting - February 23_
 - look through the original seminar book and the other resources below
 - check out related reviews, podcasts, etc.
 - you may suggest other similar resources
