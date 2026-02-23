@@ -13,7 +13,7 @@ Th efirst part of the semester will be self-guided preparation. We will have a f
 
 In the coming weeks we will have a kick-off meeting where we finalize the reading material and assign the chapters.
 
-### _Task for the kick-off meeting - February 23_
+### Task for the kick-off meeting - February 23
 - look through the original seminar book and the other resources below
 - check out related reviews, podcasts, etc.
 - you may suggest other similar resources
@@ -21,8 +21,18 @@ In the coming weeks we will have a kick-off meeting where we finalize the readin
   - your reflection on the list of resources
   - pick something that you would be most interested, volunteer for seminar topic - also have idea on when to present
 - We will discuss the schedule at this seminar
+
+### _Topic suggestion slides_
+
+Put a few slides on your motivation into [Preparation](https://eltehu.sharepoint.com/:f:/s/Crs25-26-2fundquphf20sm1Afizikafundamentliskrdseiszeminrium/IgBRu5jail0qQoj3nvUpWR_MAZZW4v8r6SKVYiFhHyFFn8E?e=HbQkE6) folder. 
+
+### _Schedule_
+
+Please register for presentation at the [Teams excel sheet](https://eltehu.sharepoint.com/:x:/s/Crs25-26-2fundquphf20sm1Afizikafundamentliskrdseiszeminrium/IQAHUVJNQRDjT6FPd-tvWTouAeTSdHCTj0Vv35rgrlCPEXo?e=QHvrKH) Add "1" for the cell at your name and suggested presentation date. At most 5 people are expected at one date. There are 4 dates, 16-Mar,	23-Mar,	13-Apr, and	20-Apr. Also	27-Apr for backup, if we cannot finish in time. DO NOT MODIFY OTHER'S CELLS!
+
    
 
+# POSSIBLE TOPICS
 
 ### Original seminar topic
 
