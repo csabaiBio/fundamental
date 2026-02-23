@@ -54,6 +54,10 @@ A clear exposition of deep physics questions, covering fundamental laws of natur
 
 A critical look at the role of aesthetics in theoretical physics and the stagnation of fundamental physics.
 
+- Curt Jaimungal - https://www.youtube.com/@TheoriesofEverything
+
+Long interviews with great scientists
+
 -  Lee Smolin – Einstein’s Unfinished Revolution (2019) [wikipedia](https://en.wikipedia.org/wiki/Einstein%27s_Unfinished_Revolution)
 
 A more recent book questioning the standard interpretation of quantum mechanics.
