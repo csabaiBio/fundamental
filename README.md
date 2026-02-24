@@ -1,5 +1,7 @@
 # Fundamental questions in physics seminar
 
+## Location: North (physics) building 5.128, Mondays 14:00 (see exact schedule below)
+
 The "A fizika fundamentális kérdései szeminárium" / "Fundamental questions in physics seminar" is a __reading seminar__, not a lecture or practice. This means that the requirement is that you read litereture (book, articles) related to the topic and work out a shor essay (~3-5pages) and a presentation in which you summarize the reading material and present your reflections. 
 
 It can be fulfilled in English or Hungarian. The reading material will be in English. The seminar will be held as a (depending on the number of students) one or two day workshop around second half of April. In the previous years we discussed Lee Smolin's "Time reborn" book, but as several years has passed, so there is a longer suggested list below. Further suggestions are welcome. 
@@ -30,7 +32,7 @@ Put a few slides on your motivation into [Preparation](https://eltehu.sharepoint
 
 Please register for presentation at the [Teams excel sheet](https://eltehu.sharepoint.com/:x:/s/Crs25-26-2fundquphf20sm1Afizikafundamentliskrdseiszeminrium/IQAHUVJNQRDjT6FPd-tvWTouAeTSdHCTj0Vv35rgrlCPEXo?e=QHvrKH) Add "1" for the cell at your name and suggested presentation date. At most 5 people are expected at one date. There are 4 dates, 16-Mar,	23-Mar,	13-Apr, and	20-Apr. Also	27-Apr for backup, if we cannot finish in time. DO NOT MODIFY OTHER'S CELLS!
 
-   
+  
 
 # POSSIBLE TOPICS
 
