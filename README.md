@@ -11,7 +11,8 @@ Th efirst part of the semester will be self-guided preparation. We will have a f
 ### To get a mark, you will need to:
 - select a topic and background literature -- related to foundations of physics, or sciences in general -- and present briefly your plans
 - read the book/articles and present a summary and your reflections in a ~10-15 minute presentation. Also take part in discussion with questions comments to other's presentation.
-- write an assay (~3-5 pages) on the selected topic that is  
+- write an essay (~3-5 pages) on the selected topic that covers your talk or extends it with your thoughts
+- upload both the slides and essay to the class' corresponding Teams folder
 
 In the coming weeks we will have a kick-off meeting where we finalize the reading material and assign the chapters.
 
