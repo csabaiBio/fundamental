@@ -11,6 +11,7 @@ Th efirst part of the semester will be self-guided preparation. We will have a f
 ### To get a mark, you will need to:
 - select a topic and background literature -- related to foundations of physics, or sciences in general -- and present briefly your plans
 - read the book/articles and present a summary and your reflections in a ~10-15 minute presentation. Also take part in discussion with questions comments to other's presentation.
+- participate at all seminars, let the teacher know, if you cannot be there. 
 - write an essay (~3-5 pages) on the selected topic that covers your talk or extends it with your thoughts
 - upload both the slides and essay to the class' corresponding Teams folder
 
@@ -31,7 +32,7 @@ Put a few slides on your motivation into [Preparation](https://eltehu.sharepoint
 
 ### _Schedule_
 
-Please register for presentation at the [Teams excel sheet](https://eltehu.sharepoint.com/:x:/s/Crs25-26-2fundquphf20sm1Afizikafundamentliskrdseiszeminrium/IQAHUVJNQRDjT6FPd-tvWTouAeTSdHCTj0Vv35rgrlCPEXo?e=QHvrKH) Add "1" for the cell at your name and suggested presentation date. At most 5 people are expected at one date. There are 4 dates, 16-Mar,	23-Mar,	13-Apr, and	20-Apr. Also	27-Apr for backup, if we cannot finish in time. DO NOT MODIFY OTHER'S CELLS!
+Please register for presentation at the [Teams excel sheet](https://eltehu.sharepoint.com/:x:/s/Crs25-26-2fundquphf20sm1Afizikafundamentliskrdseiszeminrium/IQAHUVJNQRDjT6FPd-tvWTouAeTSdHCTj0Vv35rgrlCPEXo?e=QHvrKH) Add "1" for the cell at your name and suggested presentation date. At most 5 people are expected to present their topis at one date, but everybody are expected to be there and take part in the discussions. There are 4 dates, 16-Mar,	23-Mar,	13-Apr, and	20-Apr. Also	27-Apr for backup, if we cannot finish in time. DO NOT MODIFY OTHER'S CELLS!
 
   
 
